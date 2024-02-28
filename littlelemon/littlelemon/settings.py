@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "reservation",
     "restaurant",
+    "rest_framework",
 ]
 
 MIDDLEWARE = [
@@ -81,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',  
         'NAME': 'littlelemon',  
         'USER': 'root',  
-        'PASSWORD': 'root123',
+        'PASSWORD': 'ROO2drei4!',
         'HOST': '127.0.0.1',
         'PORT': '3306',
         'OPTIONS': {
